@@ -1,0 +1,9 @@
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Dal\bin\Debug\BookLibrary.Dal.dll
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Dal\bin\Debug\BookLibrary.Dal.pdb
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Dal\bin\Debug\BookLibrary.Models.dll
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Dal\bin\Debug\BookLibrary.Models.pdb
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Dal\obj\Debug\BookLibrary.Dal.csprojAssemblyReference.cache
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Dal\obj\Debug\BookLibrary.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Dal\obj\Debug\BookLibrary.Dal.csproj.CopyComplete
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Dal\obj\Debug\BookLibrary.Dal.dll
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Dal\obj\Debug\BookLibrary.Dal.pdb

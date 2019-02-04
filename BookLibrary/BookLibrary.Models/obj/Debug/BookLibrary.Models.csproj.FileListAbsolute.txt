@@ -1,0 +1,6 @@
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Models\bin\Debug\BookLibrary.Models.dll
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Models\bin\Debug\BookLibrary.Models.pdb
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Models\obj\Debug\BookLibrary.Models.csprojAssemblyReference.cache
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Models\obj\Debug\BookLibrary.Models.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Models\obj\Debug\BookLibrary.Models.dll
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary.Models\obj\Debug\BookLibrary.Models.pdb

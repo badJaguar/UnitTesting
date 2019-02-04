@@ -1,0 +1,11 @@
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.Services.dll
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.Services.pdb
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.Dal.dll
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.Models.dll
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.Dal.pdb
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\bin\Debug\BookLibrary.Models.pdb
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Services.csprojAssemblyReference.cache
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Services.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Services.csproj.CopyComplete
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Services.dll
+C:\Users\Aliaksandr_Dzemidovi\source\repos\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Services.pdb
